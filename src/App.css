@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'SF Pro';
+  src: local('SF Pro') url(./fonts/SF-Pro-Display-Regular.otf) format('otf');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'SF Pro';
+}
+
+body {
+  background: rgb(236, 236, 236);
+}
